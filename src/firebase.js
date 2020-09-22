@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBsv0P1odGtcaf-M_H3hU46Br7IFcrIB7g',
+  apiKey: '<ENTER YOUR API_KEY>',
   authDomain: 'soumen-facebook-clone.firebaseapp.com',
   databaseURL: 'https://soumen-facebook-clone.firebaseio.com',
   projectId: 'soumen-facebook-clone',
   storageBucket: 'soumen-facebook-clone.appspot.com',
   messagingSenderId: '261554492791',
-  appId: '1:261554492791:web:e39998487a98e827727d72',
+  appId: '<ENTER YOUR API_ID>',
   measurementId: 'G-SH3DDT1V1F',
 };
 
